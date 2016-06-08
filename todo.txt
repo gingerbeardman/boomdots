@@ -1,0 +1,2 @@
+Move text display into a HUD function
+Clean up
